@@ -78,5 +78,3 @@ Stay updated with new electronics and embedded system tutorials!
 
 ---
 
-**Made with ❤️ in Iran** 🇮🇷  
-

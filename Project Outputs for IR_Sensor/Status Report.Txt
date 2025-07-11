@@ -1,0 +1,12 @@
+Output: NC Drill Files
+Type  : NC Drill
+From  : Project [IR_Sensor.PrjPcb]
+   Generated File[IR_Sensor_PCB.TXT]
+   Generated File[IR_Sensor_PCB.LDP]
+   Generated File[IR_Sensor_PCB.DRR]
+
+
+Files Generated   : 3
+Documents Printed : 0
+
+Finished Output Generation At 11:17:27 ?.? On 09/07/2025

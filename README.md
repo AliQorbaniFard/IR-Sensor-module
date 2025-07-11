@@ -30,3 +30,74 @@ The video covers every step in detail:
 
 ---
 
+---
+
+## 📷 Board Preview
+
+Here’s a look at the final board design:
+
+![PCB Preview](./images/ir_sensor_pcb_top.png) <!-- Add multiple views if available -->
+
+---
+
+## 📦 Output Files
+
+You can directly send the files from the **OutputFiles/** folder to your preferred PCB manufacturer.
+
+✔️ Gerber Files  
+✔️ NC Drill File  
+✔️ Assembly Drawing (Optional)
+
+---
+
+## 🧠 Learning Outcomes
+
+By following this project, you’ll learn:
+
+- How IR sensor modules work
+- Schematic design techniques in Altium
+- Creating accurate custom footprints
+- PCB design best practices (e.g. trace width, clearances)
+- How to prepare your board for fabrication
+
+---
+
+## ✅ Requirements
+
+- Altium Designer (tested with version 20 and above)
+- Basic electronics knowledge
+- Curiosity and passion for learning 🧠✨
+
+---
+
+## 📺 Watch the Tutorial
+
+🎬 **[Watch Now on YouTube »](https://www.youtube.com/@SlyFoxElectronics)**  
+📌 Like, Share, and Subscribe if you enjoy hardware design content!
+
+---
+
+## 🤝 Contribute / Feedback
+
+Feel free to fork the repo, open issues, or suggest improvements!  
+For questions or project ideas, leave a comment on the video or contact me via GitHub.
+
+---
+
+## 📃 License
+
+This project is open-source under the [MIT License](LICENSE).
+
+---
+
+## 🔗 Follow Sly Fox Electronics
+
+Stay updated with new electronics and embedded system tutorials!
+
+- 🔴 YouTube: [Sly Fox Electronics](https://www.youtube.com/@SlyFoxElectronics)
+- 💬 GitHub: [AliQorbaniFard](https://github.com/AliQorbaniFard)
+
+---
+
+**Made with ❤️ in Iran** 🇮🇷  
+

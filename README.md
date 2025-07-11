@@ -29,5 +29,3 @@ The video covers every step in detail:
 
 ---
 
-## 📁 Project Structure
-

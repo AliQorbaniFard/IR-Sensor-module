@@ -30,15 +30,6 @@ The video covers every step in detail:
 
 ---
 
----
-
-## 📷 Board Preview
-
-Here’s a look at the final board design:
-
-![PCB Preview](./images/ir_sensor_pcb_top.png) <!-- Add multiple views if available -->
-
----
 
 ## 📦 Output Files
 

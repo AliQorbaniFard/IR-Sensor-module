@@ -1,6 +1,7 @@
 # 🔧 IR Sensor Module - Altium Designer Project
 
-![IR Sensor Module PCB](./images/ir_sensor_pcb.jpg) <!-- Replace with actual image path -->
+<img width="1590" height="900" alt="x" src="https://github.com/user-attachments/assets/09cd9444-122b-45b6-a1e2-7f0446b4d936" />
+
 
 📍 **Designed in Altium Designer** | 🎥 **Explained on [Sly Fox Electronics](https://www.youtube.com/@SlyFoxElectronics)**  
 🛠️ Schematic | ✏️ Custom Footprints | 📐 PCB Layout | 📁 Gerber & NC Drill Files

@@ -66,18 +66,6 @@ By following this project, you’ll learn:
 🎬 **[Watch Now on YouTube »](https://www.youtube.com/@SlyFoxElectronics)**  
 📌 Like, Share, and Subscribe if you enjoy hardware design content!
 
----
-
-## 🤝 Contribute / Feedback
-
-Feel free to fork the repo, open issues, or suggest improvements!  
-For questions or project ideas, leave a comment on the video or contact me via GitHub.
-
----
-
-## 📃 License
-
-This project is open-source under the [MIT License](LICENSE).
 
 ---
 
